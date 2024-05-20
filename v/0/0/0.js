@@ -2957,7 +2957,7 @@
         ((this.addParams = t.filters.addParams),
         (this.active = ''),
         (this.fileName = 'sort.ts'),
-        (this.paramName = 'sortieren-nach'),
+        (this.paramName = 'sortieren_nach'),
         (this.commaSubstitution = '_c_'),
         (this.ampersandSubstitution = '_a_'),
         (this.parent = document.querySelector('[c-el="sort"]')),
